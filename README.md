@@ -1,1 +1,1 @@
-# observablesYMedidas
+# El siguiente trabajo está compuesto por una serie de librerías y el archivo  observablesYMedidas.py, en este ejecutable se encuentra el trabajo, en él está comentado cada parte del trabajo donde indica a que corresponde según lo pedido en el laboratorio, aparte en el main esta los puntos del capítulo 4  comentados solo es cuestión de descomentarlos para su uso.
